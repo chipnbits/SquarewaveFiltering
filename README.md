@@ -8,3 +8,7 @@ A novel filtering algorithm for squarewave signals
 - pcb.png - A photo of the manfactured IR array PCB 
 - squareWaveAnalysis.mlx – An explanation and analysis of the filtering algorithm developed for the competition, from DFT principles
 - squareWaveAnalysis.pdf – PDF copy of the Matlab livescript analysis
+
+A video demonstration of the device can be found by clicking the image below:
+
+[![Video Demonstration](https://img.youtube.com/vi/aBa5nf1EYEI/0.jpg)](https://www.youtube.com/watch?v=aBa5nf1EYEI)
